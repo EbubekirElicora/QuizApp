@@ -349,11 +349,3 @@ This note documents the current repository state without changing the original l
 ## Disclaimer
 
 This project was created for educational and portfolio purposes. The included questions and names are used only as quiz content to demonstrate frontend functionality.
-
----
-
-## Author
-
-**Ebubekir Elicora**
-
-[GitHub](https://github.com/EbubekirElicora) · [Portfolio](https://ebubekir-elicora.de/) · [LinkedIn](https://www.linkedin.com/in/ebubekir-eli%C3%A7ora-a27b47392/)
